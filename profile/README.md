@@ -11,6 +11,9 @@
 -->
 
 🙋‍♀️ A short introduction - Trustworthy NLP @ University of Memphis
+
 🌈 Contribution guidelines - Open
-👩‍💻 Useful resources - Email
+
+👩‍💻 Contact - Email is the best method
+
 🍿 Fun facts - Machine Learning and Natural Language Processing Research for Health Informatics
