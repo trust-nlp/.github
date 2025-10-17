@@ -1,4 +1,4 @@
-## Trustworthy NLP for Health Informatics @ University of Memphis
+## Trustworthy NLP for Health Informatics, Sciences, and Engineering @ University of Memphis
 
 <!--
 
@@ -7,7 +7,7 @@
 🙋‍♀️ A short introduction - Trustworthy NLP @ University of Memphis
 🌈 Contribution guidelines - Open
 👩‍💻 Useful resources - Email
-🍿 Fun facts - Research for Health Informatics
+🍿 Fun facts - Research for Health Informatics, Sciences, and Engineering
 -->
 
 🙋‍♀️ A short introduction - Trustworthy NLP @ University of Memphis
@@ -16,4 +16,4 @@
 
 👩‍💻 Contact - Email is the best method
 
-🍿 Fun facts - Machine Learning and Natural Language Processing Research for Health Informatics
+🍿 Fun facts - Machine Learning and Natural Language Processing Research for Health Informatics, Sciences, and Engineering
