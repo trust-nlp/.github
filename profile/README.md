@@ -4,7 +4,7 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - Trustworthy NLP @ University of Memphis
+🙋‍♀️ A short introduction - Trustworthy NLP @ University of Missouri
 🌈 Contribution guidelines - Open
 👩‍💻 Useful resources - Email
 🍿 Fun facts - Research for Health Informatics, Sciences, and Engineering
